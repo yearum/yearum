@@ -1,4 +1,4 @@
-- 👋 Hi, I’m ndoro yerum cahyo kusuma sari
+- 👋 Hi, I’m ndoro yerum cahyadiningrat
 - 👀 I’m interested in react native
 - 🌱 I’m currently learning react native android
 - 📫 How to reach me?You can contact through or visit your social media account
