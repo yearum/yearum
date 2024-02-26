@@ -1,4 +1,4 @@
-👋 Eyyo everyone, I’m ndoro yerum cahyadiningrat
+👋 Eyyo everyone, I’m Tjong yerum cahyadi wijaya koesuma
 
 👀 I like to try a lot of things and find out interesting things
 🌱 Right now I'm curious about making Android with React Native that sounds like a really interesting thing to me
