@@ -1,12 +1,17 @@
-👋 Eyyo everyone, I’m Tjong yerum cahyadi wijaya koesuma
+# Hey there! I'm Jong 👋
 
-👀 I like to try a lot of things and find out interesting things
-🌱 Right now I'm curious about making Android with React Native that sounds like a really interesting thing to me
-🦾 My hobby is reading and exploring technology
-📫 How to reach me?You can contact through or visit your social media account
- jongyerum@gmail.com
-😆 @xzyerum
-<!---
-yearum/yearum is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🚀 About Me
+- Suka eksplor teknologi baru
+- Lagi belajar Web Development (HTML, CSS, JS) dan Python
+- Senang ngoprek Linux dan data processing
+
+## 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+
+## 📊 GitHub Analytics
+![Jong's GitHub stats](https://github-readme-stats.vercel.app/api?username=jongdev&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jongdev&layout=compact&theme=radical)
+
